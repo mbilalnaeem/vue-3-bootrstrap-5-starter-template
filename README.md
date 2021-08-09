@@ -1,4 +1,4 @@
-# hello
+# Vue 3 Bootstrap 5 Starter Template with Ability to customize and overrides default bootstrap sass
 
 ## Project setup
 ```
